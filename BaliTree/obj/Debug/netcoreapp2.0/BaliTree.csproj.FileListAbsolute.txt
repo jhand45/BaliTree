@@ -1,0 +1,15 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTreeData.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTreeServices.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.AssemblyInfoInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.AssemblyInfo.cs
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTree.deps.json
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTree.runtimeconfig.json
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTree.runtimeconfig.dev.json
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTree.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTree.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTreeData.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\bin\Debug\netcoreapp2.0\BaliTreeServices.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\BaliTree\BaliTree\obj\Debug\netcoreapp2.0\BaliTree.pdb

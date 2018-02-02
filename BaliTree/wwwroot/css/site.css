@@ -1,0 +1,89 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #453b15;
+}
+
+
+/*header and footer in _layout*/
+.navbar {
+    background-color: #8a6e2a;
+    text-align: center;
+    color: white;
+}
+
+.container{ /*changes footer not header*/
+    color:white;
+}
+
+.nav navbar-nav{
+    color:white;
+}
+
+#navbarcontents{
+    color:white;
+}
+
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+
+/*Home Page Customization*/
+#hometitle{
+    color:white;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+
+#homesubtitle{
+    color:white;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top:0px;
+    padding-top:0px;
+}
+
+#homelinks{
+    color:white;
+    margin-top:30px;
+}
+
+#homelinks > ul > li > a{
+        color:white;
+}
+
+#homepage {
+    background-color: #253914;
+}
+
